@@ -6,7 +6,7 @@ public class Main {
         Livro []l = new Livro[3];
 
         p[0] = new Pessoa("Lais", 17, "Feminino");
-        p[1] = new Pessoa("Julia", 18, "F");
+        p[1] = new Pessoa("Julia", 18, "Feminino");
 
         l[0] = new Livro("Verity", "Colleen Hoover", 320, p[0]);
         l[1] = new Livro("Diário de Anne Frank", "Anne Frank", 244, p[1]);
