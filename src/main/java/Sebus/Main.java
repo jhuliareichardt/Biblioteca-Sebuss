@@ -5,7 +5,7 @@ public class Main {
         Pessoa[]p = new Pessoa[2];
         Livro []l = new Livro[3];
 
-        p[0] = new Pessoa("Lais", 17, "F");
+        p[0] = new Pessoa("Lais", 17, "Feminino");
         p[1] = new Pessoa("Julia", 18, "F");
 
         l[0] = new Livro("Verity", "Colleen Hoover", 320, p[0]);
